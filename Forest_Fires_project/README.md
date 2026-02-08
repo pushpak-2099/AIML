@@ -12,6 +12,8 @@ to predict fire risk.
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Scikit-learn
 - Jupyter
 
@@ -27,3 +29,4 @@ to predict fire risk.
 - Evaluation
 
 Author: Pushpak
+
