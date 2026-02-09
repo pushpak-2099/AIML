@@ -28,5 +28,10 @@ to predict fire risk.
 - Model training
 - Evaluation
 
+## file sequence
+-forest_fires_EDA.ipynb
+-forest_fire.ipynb
+
+
 Author: Pushpak
 
