@@ -30,9 +30,12 @@ to predict fire risk.
 
 ## file sequence
 -forest_fires_EDA.ipynb
+
 -forest_fire.ipynb
 
 
+
 Author: Pushpak
+
 
 
